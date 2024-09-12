@@ -1,0 +1,12 @@
+
+.box1 {
+    margin-bottom: 40px;
+    background-color: hsl(114, 31%, 74%);
+    padding: 10px;
+  }
+  
+  .box2 {
+    margin-top: 20px;
+    background-color: hsl(224, 56%, 80%);
+    padding: 10px;
+  }
